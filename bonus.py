@@ -7,9 +7,9 @@ return the length of the longest palindrome that can be built with those letters
 For this question, letters are case-sensitive, for example, "Aa" is not considered a palindrome.
 """
 def longest_palindrome_length(text):
-    # Change here so it works correctly
+    #difficult🏳
 
-    return 0
+    return
 
 
 if __name__ == '__main__':
